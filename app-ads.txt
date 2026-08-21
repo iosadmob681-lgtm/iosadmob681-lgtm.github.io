@@ -1560,4 +1560,4 @@ zmaticoo.com, 5135224, RESELLER
 zmaticoo.com, 5135302, RESELLER
 zoomd.com, 88478941, RESELLER
 pangleglobal.com, 5035833, DIRECT
-bigo.sg,pj006ex0re,DIRECT
+bigo.sg,xh3vzywgf9,DIRECT
